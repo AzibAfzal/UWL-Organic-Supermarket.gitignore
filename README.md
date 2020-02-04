@@ -1,0 +1,1 @@
+# UWL-Organic-Supermarket.gitignore
